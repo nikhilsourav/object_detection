@@ -2,6 +2,10 @@
 
 This project uses TensorFlow based frozen model and OpenCV python library for object detection of static images.
 
+## Demo:
+
+![Demo image](./images/demo.png 'Demo')
+
 ## Programming language:
 
 - [Python](https://www.python.org/)
