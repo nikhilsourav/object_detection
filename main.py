@@ -24,7 +24,7 @@ model.setInputMean((127.5, 127.5, 127.5))
 model.setInputSwapRB(True)
 
 # read an image
-img = cv2.imread('img_1.jpg')
+img = cv2.imread('images/img_1.jpg')
 
 '''
 # view image using matplot library
